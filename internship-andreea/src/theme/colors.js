@@ -1,0 +1,16 @@
+export const colors = {
+  white: '#ffffff',
+  black: '#000000',
+  general: '#2596be',
+  green: '#226a6d',
+  grey: '#c0c0c0',
+  dashboard: '#f7e2d2',
+  home: '#e28743',
+  lightgrey: '#F8F8F8',
+  darkgrey: '#585858',
+  lightgreen: ' #226a6d0f',
+  modalBackgroundColor1: 'rgb(0, 0, 0)',
+  modalBackgroundColor2: 'rgba(0, 0, 0, 0.4)',
+  clasicBorder: 'rgba(0, 0, 0, 0.1);',
+  modalContent: '#efefef',
+}
